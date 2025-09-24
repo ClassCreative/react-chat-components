@@ -25,6 +25,7 @@
       "npm run prettier:base -- --write"
     ]
   },
+  "packageManager": "yarn@4.4.1",
   "scripts": {
     "build": "turbo run build",
     "eslint:base": "eslint --ignore-path .gitignore",
